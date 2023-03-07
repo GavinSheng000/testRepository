@@ -4,7 +4,13 @@
 #include<string.h>
 
 int main(void){
-	printf("Frist Output Msg...\n");
+
+
+
+
+	printf("AAAAA\n");
+	printf("AAAAA\n");
+	printf("AAAAA\n");
 	while(1)
 		sleep(1);
 	return 0;
