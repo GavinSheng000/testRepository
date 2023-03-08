@@ -35,8 +35,8 @@
 
 1. 游戏
    1. FPS游戏
-   	1. CSGO
-	2. APEX
+      1. CSGO
+      2. APEX
    2. RPG游戏
       * 战神
       * 只狼
